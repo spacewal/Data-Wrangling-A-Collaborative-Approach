@@ -28,12 +28,11 @@ Key insights from the EDA include:
 Visualizations supporting these insights can be found in the accompanying Jupyter Notebook.
 
 ## Files
-- `London_Bus_Weather_Lambda.csv`: Original dataset.
-- `London_Bus_Weather_Cleaned.csv`: Cleaned dataset.
-- `London_Bus_Weather_Merged.csv`: Merged dataset with additional bus route information.
-- `London_Bus_Weather_Binned.csv`: Dataset with binned temperature data.
-- `London_Bus_Weather_with_DayOfWeek.csv`: Dataset with added `day_of_week` feature.
-- `Data_Wrangling_and_EDA.ipynb`: Jupyter Notebook containing the data wrangling and EDA process.
+- `tfl_bus_safety.csv`: Original dataset.
+- `London_Bus_Safety_Performance_Cleaned_Data.csv`: Cleaned dataset.
+- `London_Bus_Weather_Merge.csv`: Merged dataset with additional bus route information.
+- `London_Bus_Weather_Merge_and_Bin.csv`: Dataset with binned temperature data.
+- `London_Bus_Safety_Performance.ipynb`: Jupyter Notebook containing the data wrangling and EDA process.
 
 ## Tools Used
 - Python
