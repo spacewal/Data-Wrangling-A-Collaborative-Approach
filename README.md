@@ -6,7 +6,7 @@
 This repository contains a data wrangling and exploratory data analysis (EDA) project on a dataset of incidents involving London buses. The dataset includes information about incidents, such as the date, route, operator, location, type of incident, victim category, and weather conditions at the time of the incident.
 
 ## Dataset
-The dataset, `London_Bus_Weather_Lambda.csv`, consists of over 10,000 rows and 24 columns. It was sourced from [add source here] and includes data from [start year] to [end year].
+The dataset, `London_Bus_Weather_Lambda.csv`, consists of over 10,000 rows and 24 columns. 
 
 ## Data Wrangling Steps
 1. **Dataset Acquisition and Loading:** The dataset was loaded into a pandas DataFrame for analysis.
